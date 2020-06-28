@@ -1,1 +1,1 @@
-# Hangman
+# Python Hangman Game
